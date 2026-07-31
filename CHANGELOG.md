@@ -1,6 +1,12 @@
 # Changelog
 
-## simtrial-rust 0.1.0
+## simtrial-rs 0.1.1
+
+### Maintenance
+
+- Updated GitHub repository name to `simtrial-rs` (#5).
+
+## simtrial-rs 0.1.0
 
 ### New features
 
